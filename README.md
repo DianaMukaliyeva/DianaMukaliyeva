@@ -21,10 +21,12 @@ I want to become software engineer because it requires ability to continually le
   <img alt="Redux" width="150px" src="https://img.shields.io/badge/Tools-Redux-9cf?style=for-the-badge&logo=Redux&color=%2332A9D5" />
   <img alt="MySQL" width="130px" src="https://img.shields.io/badge/Sql-MySql-9cf?style=for-the-badge&logo=MySQL&color=%2332A9D5" />
   <img alt="PostgreSQL" width="180px" src="https://img.shields.io/badge/Sql-PostgreSQL-9cf?style=for-the-badge&logo=PostgreSQL&color=%2332A9D5" />
+  <img alt="MongoDB" width="160px" src="https://img.shields.io/badge/Sql-MongoDB-9cf?style=for-the-badge&logo=MongoDB&color=%2332A9D5" />
   <img alt="PHP" width="125px" src="https://img.shields.io/badge/Code-PHP-9cf?style=for-the-badge&logo=PHP&color=%2332A9D5" />
   <img alt="C" width="110px" src="https://img.shields.io/badge/Code-C-9cf?style=for-the-badge&logo=C&color=%2332A9D5" />
   <img alt="Git" width="135px" src="https://img.shields.io/badge/Tools-Git-9cf?style=for-the-badge&logo=Git&color=%2332A9D5" />
   <img alt="Docker" width="165px" src="https://img.shields.io/badge/Tools-Docker-9cf?style=for-the-badge&logo=Docker&color=%2332A9D5" />
+  <img alt="Heroku" width="165px" src="https://img.shields.io/badge/Tools-Heroku-9cf?style=for-the-badge&logo=Heroku&color=%2332A9D5" />
   <img alt="Linux" width="155px" src="https://img.shields.io/badge/Tools-Linux-9cf?style=for-the-badge&logo=Linux&color=%2332A9D5" />
 </p>
 
