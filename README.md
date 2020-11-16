@@ -6,8 +6,8 @@
 
 <p align="center">
   I am a student at <a href="https://www.hive.fi/en/">Hive Helsinki</a>. Hive Helsinki is a new kind of coding school and I really enjoy studying there :woman_technologist:.  
-I want to become software engineer because it requires ability to continually learn new technologies and improve old ones &#127891; and this is awesome. I am actively looking for full time software engineer opportunity.
-</p>
+I want to become a software engineer because it requires the ability to continually learn new technologies and improve old ones &#127891; and this is awesome. I am actively looking for a full time software engineer opportunity.
+</p> 
 
 ********************************
 
