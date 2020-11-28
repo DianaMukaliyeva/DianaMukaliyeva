@@ -39,7 +39,6 @@ I want to become a software engineer because it requires the ability to continua
 <p>
 <ul>
   <li>learning <a href="https://fullstackopen.com/en">Full Stack Open Course 2020</a></li>
-  <li>playing on <a href="https://www.codingame.com/contests/fall-challenge-2020">Coding Game Fall challenge 2020</a></li>
 </ul>
 </p>
 </details>
