@@ -11,7 +11,7 @@ I want to become a software engineer because it requires the ability to continua
 
 ********************************
 
-<details>
+<details open>
   <summary> <b> :link: Technologies & Tools</b>: </summary>
 <br/>
 <p>
@@ -34,12 +34,16 @@ I want to become a software engineer because it requires the ability to continua
 
 </details>
 
-<details>
+<details open>
    <summary> <b> :link: 🌱 Active Projects</b>: </summary>
 <p>
-<ul>
-  <li>learning <a href="https://fullstackopen.com/en">Full Stack Open Course 2020</a></li>
-</ul>
+  <h3><a href="https://github.com/DianaMukaliyeva/hypertube">Hypertube project</a></h3>
+  <p><b>Description:</b> Movie stream web app</p>
+  <div><b>Stack:</b></div>
+  <ul>
+    <li>Node.js, Express</li>
+    <li>React</li>
+    <li>MongoDB</li>
 </p>
 </details>
 
