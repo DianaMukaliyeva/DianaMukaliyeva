@@ -5,8 +5,8 @@
 ### Hi, I am Diana 👋
 
 <p align="center">
-  I am a student at <a href="https://www.hive.fi/en/">Hive Helsinki</a>. Hive Helsinki is a new kind of coding school and I really enjoy studying there :woman_technologist:.  
-I want to become a software engineer because it requires the ability to continually learn new technologies and improve old ones &#127891; and this is awesome. I am actively looking for a full time software engineer opportunity.
+  I'm currently working at <a href="https://www.smartly.io/">Smartly.io</a> as a Software Engineer and also I am a student at <a href="https://www.hive.fi/en/">Hive Helsinki</a>. Hive Helsinki is a new kind of coding school and I really enjoy studying there :woman_technologist:.  
+I like to be a software engineer because it requires the ability to continually learn new technologies and improve old ones &#127891; and this is awesome. 
 </p> 
 
 ********************************
@@ -28,6 +28,7 @@ I want to become a software engineer because it requires the ability to continua
   <img alt="Docker" width="165px" src="https://img.shields.io/badge/Tools-Docker-9cf?style=for-the-badge&logo=Docker&color=%2332A9D5" />
   <img alt="Heroku" width="165px" src="https://img.shields.io/badge/Tools-Heroku-9cf?style=for-the-badge&logo=Heroku&color=%2332A9D5" />
   <img alt="Linux" width="155px" src="https://img.shields.io/badge/Tools-Linux-9cf?style=for-the-badge&logo=Linux&color=%2332A9D5" />
+  <img alt="Heroku" width="165px" src="https://img.shields.io/badge/Tools-Grafana-9cf?style=for-the-badge&logo=Grafana&color=%2332A9D5" />
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaMukaliyeva&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
